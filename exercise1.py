@@ -21,7 +21,7 @@ pisces = " Avoid wizards "
 # TASK 2
 # prompt the user for there sign
 # Uncomment the next line of code and add intro() function to make 
-# Make sure that intro() is given a paremeter asking the user for information
+# Make sure that input() is given a paremeter asking the user for information
 # userSign = 
 
 # process userSign to make all variables lowercase
